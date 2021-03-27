@@ -5,6 +5,8 @@ Marks:
 * Project 1 (Classification Analysis on Textual Data) - 138.0 / 142.0
 * Project 2 (Clustering) - 211.0 / 211.0
 * Project 3 (Collaborative Filtering) - 212.0 / 214.0
-* Project 4 (Regression Analysis) - 
+* Project 4 (Regression Analysis) - 223.0/223.0
+
+Final Grade: A+
 
 (c) 2021 Swapnil Sayan Saha and Grant Charles Young
